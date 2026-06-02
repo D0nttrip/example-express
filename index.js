@@ -17,7 +17,7 @@ app.get("/", (req, res) => {
 
   res.send(`
     <h1>BlueFace Baby</h1>
-    <img src="https://tenor.com" alt="Nleblue123 GIF" width="450">
+    <<div class="tenor-gif-embed" data-postid="26529836" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/nleblue123-gif-26529836">Nleblue123 GIF</a>from <a href="https://tenor.com/search/nleblue123-gifs">Nleblue123 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>>
 
     <p>Your visit has been recorded.</p>
   `);
