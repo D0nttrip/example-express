@@ -16,8 +16,9 @@ app.get("/", (req, res) => {
   console.log("----------------------");
 
   res.send(`
-    <h1>Welcome 👋</h1>
-    <p>This page logs basic visitor data for educational purposes.</p>
+    <h1>BlueFace Baby</h1>
+    <img src="https://tenor.com" alt="Nleblue123 GIF" width="450">
+
     <p>Your visit has been recorded.</p>
   `);
 });
