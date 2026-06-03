@@ -16,9 +16,8 @@ app.get("/", (req, res) => {
   console.log("----------------------");
 
   res.send(`
-    <h1>BlueFace Baby</h1>
-    <<div class="tenor-gif-embed" data-postid="26529836" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/nleblue123-gif-26529836">Nleblue123 GIF</a>from <a href="https://tenor.com/search/nleblue123-gifs">Nleblue123 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>>
-
+    <h1>YOUR IP is mine now</h1>
+    <iframe src="https://giphy.com/embed/W2BaHNYfOBGuKHjlZO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TruRebelsDistro-69-6ix9ine-sixnine-W2BaHNYfOBGuKHjlZO">via GIPHY</a></p>
     <p>Your visit has been recorded.</p>
   `);
 });
